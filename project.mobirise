@@ -158,7 +158,7 @@
             "showCaptions": true,
             "paddingTop": "2",
             "paddingBottom": 3,
-            "columns": 4,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -173,9 +173,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "Toalhas",
-          "caption1": "Produzimos Tolhas Descartáveis nas seguintes medidas:<br>•\tToalha 40x40&nbsp;<br>•\tToalha 60x40&nbsp;<br>•\tToalha 78x32<br>•\tToalha 78x40&nbsp;<br>•\tToalha 84x52 &nbsp;<br>",
+          "caption1": "Produzimos Tolhas Descartáveis nas seguintes medidas:<br><br>•\tToalha 40x40&nbsp;<br>•\tToalha 60x40&nbsp;<br>•\tToalha 78x32<br>•\tToalha 78x40&nbsp;<br>•\tToalha 84x52 &nbsp;<br>",
           "title2": "Toalhas XL",
-          "caption2": "Ideais para utilizar como toalha de banho,fazemos nas seguintes medidas:<br><br>•\tToalha XL 145x52&nbsp;<br>•\tToalha XL 160x80 &nbsp;<br>",
+          "caption2": "Ideais para utilizar como toalha de banho,fazemos nas seguintes medidas:<br><br>•\tToalha XL 145x52&nbsp;<br>•\tToalha XL 160x80 <br><br><b>Especial Cabeleireiros e Barbearias</b>&nbsp;<br><b>- Capas de Corte<br>- Batas / Kimono</b>",
           "title3": "Pack Sport",
           "caption3": "Uma embalagem de papel com 2 toalhas descartáveis 60x40.<br>Optímo para levar para actividades fisicas no exterior e estão aptas a serem colocacadas em máquinas de vending,também personalizamos para eventos desportivos.",
           "title4": "Babetes&nbsp;",
@@ -195,50 +195,64 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/fh-400x400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fh-400x400-400x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12652-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12652-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/aw-600x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/aw-600x600-600x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12711-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12711-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/q-960x960.png",
-                "thumb": "@PROJECT_PATH@/assets/images/q-960x960-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12731-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12731-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mc-180x180.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mc-180x180-180x180.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12759-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12759-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/t24-200x200.png",
-                "thumb": "@PROJECT_PATH@/assets/images/t24-200x200-200x200.png",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12513-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12513-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/vf-960x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vf-960x960-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12605-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12605-1080x1080-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gp-696x163.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gp-696x163-696x163.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20200430-12613-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200430-12613-1080x1080-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200430-171414-508-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200430-171414-508-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
