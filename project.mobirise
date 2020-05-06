@@ -38,7 +38,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -51,7 +51,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TOALHAS<br>DESCARTÁVEIS",
-          "text": "Pelo AMBIENTE e pelo seu NEGÓCIO",
+          "text": "<b>Pelo AMBIENTE e pelo seu NEGÓCIO</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Encomendas&nbsp;<br><br></a> ",
           "alias": "purity/components",
           "_tags": [
@@ -68,10 +68,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "72px",
               "text-align": "center",
-              "color": "#e6e0dc"
+              "color": "#f1c050"
             },
             "P": {
-              "color": "#fff8e0"
+              "color": "#f1c050",
+              "font-size": "24px"
             }
           }
         },
@@ -253,6 +254,20 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/q-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/q-800x800-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/w-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/w-800x800-800x800.png",
                 "alt": "",
                 "title": "",
                 "active": true
