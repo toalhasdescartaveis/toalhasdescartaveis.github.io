@@ -32,13 +32,13 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/toalhas-d-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
