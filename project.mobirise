@@ -270,6 +270,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/w-800x800-800x800.png",
                 "alt": "",
                 "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200507-133023-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/20200507-133023-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/barbearia-serr-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/barbearia-serr-800x800-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200516-112007-642-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200516-112007-642-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
                 "active": true
               }
             ]
