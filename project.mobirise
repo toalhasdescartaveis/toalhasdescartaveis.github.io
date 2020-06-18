@@ -319,14 +319,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20200604-161921-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/barbearia-serra-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/barbearia-serra-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20200616-153858-2000x2000.png",
@@ -354,7 +347,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20200618-160732-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
-                "active": true
+                "active": false
               }
             ]
           },
