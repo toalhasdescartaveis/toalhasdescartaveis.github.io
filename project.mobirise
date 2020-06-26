@@ -312,7 +312,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20200619-141027-695-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20200604-161921-2000x2000.png",
@@ -348,6 +348,20 @@
                 "alt": "",
                 "title": "",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200626-142925-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/20200626-142925-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200626-143008-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/20200626-143008-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": true
               }
             ]
           },
