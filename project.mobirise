@@ -354,6 +354,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20200626-143008-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200706-153500-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/20200706-153500-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
                 "active": true
               }
             ]
