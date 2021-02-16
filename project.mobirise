@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "5.2.0",
     "favicon": "",
     "noImageResize": "",
@@ -42,7 +42,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/toalhas-d-1920x1080.png",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
             "bgVideoRadio": false,
@@ -81,12 +81,42 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/starchb-1920x1080.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-m"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tdescartaveis-640x310.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1272.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -99,7 +129,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Sobre Nós",
-          "caption": "<p>Toalhas Descartáveis, comercializa produtos elaborados com total respeito pelo Ambiente, proteger o nosso planeta é muito importante e cada vez mais,obrigatório. Ao reduzirmos o numero de lavagens, estamos a trabalhar positivamente para a melhoria do estado do nosso planeta e para a poupança de um dos recursos mais importantes, a ÁGUA.</p><p>\n<span style=\"font-size: 1.25rem;\">Do nosso leque de produtos,realçamos as nossas toalhas descartáveis,que substituem na perfeição,qualquer toalha convencional.São super absorventes, muito confortáveis na sua utilização e económicas.</span></p><p>Fornecemos todos os negócios que necessitam de toalhas,<i>CABELEIREIROS, GINÁSIOS, IPSS, HOTELARIA, SAÚDE,</i> entre outros.</p><p><b><span style=\"font-size: 1.25rem;\">Super absorventes &nbsp;| &nbsp;\n B</span><span style=\"font-size: 1.25rem;\">iodegradáveis &nbsp;| &nbsp;P</span><span style=\"font-size: 1.25rem;\">oupam Espaço &nbsp;| &nbsp;&nbsp;</span><span style=\"font-size: 1.25rem;\">Personalizáveis &nbsp;| Económicas</span></b></p><p><b><span style=\"font-size: 1.25rem;\">SOLICITE AMOSTRAS GRATUITAS, e comece a POUPAR!</span></b></p>",
+          "caption": "<p>Comercializamos produtos elaborados com total respeito pelo Ambiente, proteger o nosso planeta é muito importante e cada vez mais,obrigatório.&nbsp;</p><p><span style=\"font-size: 1.25rem;\">Do nosso leque de produtos,realçamos as nossas <b>toalhas descartáveis</b>,que substituem na perfeição,qualquer toalha convencional.São super absorventes, muito confortáveis na sua utilização e económicas.</span></p><p><span style=\"font-size: 1.25rem;\">Os nossos<b> sacos para lixo</b> e <b>sacos higiénicos</b> para recolha de dejectos de cães, são 100% COMPOSTÁVEIS, todo o seu processo de degradação, que pode variar apenas entre um e seis meses, é rápido e altamente benéfico para o meio ambiente. Durante o período de decomposição destes produtos de origem vegetal - estando reunidas condições ideais de temperatura, humidade, oxigénio e agentes biológicos - gera-se um material orgânico muito rico em nutrientes para o solo, um composto, que pode ser utilizado para jardinagem e hortas.&nbsp;&nbsp;</span></p><p><b style=\"font-size: 1.25rem;\"><span style=\"font-size: 1.25rem;\">SOLICITE AMOSTRAS GRATUITAS, e comece a POUPAR!</span></b><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -123,8 +153,8 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -149,9 +179,9 @@
           "_anchor": "msg-box2-f",
           "_styles": {
             "H2": {
-              "font-size": "36px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "46px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center"
             }
           }
@@ -162,7 +192,7 @@
             "showCaptions": true,
             "paddingTop": "2",
             "paddingBottom": 3,
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -176,12 +206,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Toalhas",
-          "caption1": "Produzimos Tolhas Descartáveis nas seguintes medidas:<br><br>•\tToalha 40x40&nbsp;<br>•\tToalha 60x40&nbsp;<br>•\tToalha 78x32<br>•\tToalha 78x40&nbsp;<br>•\tToalha 84x52 &nbsp;<br>",
-          "title2": "Toalhas XL",
-          "caption2": "Ideais para utilizar como toalha de banho,fazemos nas seguintes medidas:<br><br>•\tToalha XL 145x52&nbsp;<br>•\tToalha XL 160x80 <br><br><b>Especial Cabeleireiros e Barbearias</b>&nbsp;<br><b>- Capas de Corte<br>- Batas / Kimono</b>",
-          "title3": "Pack Sport",
-          "caption3": "Uma embalagem de papel com 2 toalhas descartáveis 60x40.<br>Optímo para levar para actividades fisicas no exterior e estão aptas a serem colocacadas em máquinas de vending,também personalizamos para eventos desportivos.",
+          "title1": "TOALHAS",
+          "caption1": "Produzimos Tolhas Descartáveis nas seguintes medidas:<br><br>•\tToalha 40x40&nbsp;<br>•\tToalha 60x40&nbsp;<br>•\tToalha 78x32<br>•\tToalha 78x40&nbsp;<br>•\tToalha 84x52 <br>•\tToalha XL 145x52 \n<br>•\tToalha XL 160x80&nbsp;<br>TAMBÉM FAZEMOS Á MEDIDA",
+          "title2": "SACOS DO LIXO",
+          "caption2": "100 % COMPOSTÁVEIS:<br><br>• Saco 8 litros<br>• Saco 10 litros<br>&nbsp;• Saco 20 litros<br>• Saco 35 litros&nbsp;<br>• Saco 60 litros<br>• Saco 120 litros&nbsp;<br>• Saco para dejectos de cães<br><br><br>",
+          "title3": "OUTROS",
+          "caption3": "Com o tecido das nossas toalhas podemos fazer produção à medida como:<br><br>Babetes<br>Capas diversas, como capas de corte para cabeleireiros<br>Capas de protecção<br>Roupões e batas<br>entre outros...<br><br><br>",
           "title4": "Babetes&nbsp;",
           "caption4": "Para Restaurantes, Marisqueiras, Festivais Gastronómicos.<br>Fazemos babetes anónimos e personalizados, temos também a possibilidade de embalá-los individualmente.",
           "alias": "purity/components",
@@ -192,189 +222,44 @@
           "_anchor": "content4-a"
         },
         {
+          "_inherit": "msg-box1",
           "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#ffffff",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200430-12652-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20200430-12652-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200430-12711-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20200430-12711-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bodystation-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bodystation-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/barbearia-serra-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/barbearia-serra-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200430-12513-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20200430-12513-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200430-12605-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20200430-12605-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200430-12613-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20200430-12613-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20200430-171414-508-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200430-171414-508-2000x2000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200504-162431-629-2000x2000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/q-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/q-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/w-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/w-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200507-133023-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200507-133023-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/barbearia-serr-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/barbearia-serr-800x800-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20200516-112007-642-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200516-112007-642-2000x2000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200519-140300-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200519-140300-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200519-140348-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200519-140348-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20200619-141027-695-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200619-141027-695-2000x2000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200604-161921-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200604-161921-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200616-153858-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200616-153858-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20200615-141422-854-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200615-141422-854-2000x2000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200618-160732-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200618-160732-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200626-142925-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200626-142925-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200626-143008-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200626-143008-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20200706-153500-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20200706-153500-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              }
-            ]
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;info@toalhasdescartaveis.pt / 966967973<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.instagram.com/toalhasdescartaveis/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Follow us</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-k"
+          "_name": "msg-box2",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box2-h"
         },
         {
           "_inherit": "menu",
@@ -426,46 +311,6 @@
               "font-size": "19px"
             }
           }
-        },
-        {
-          "_inherit": "msg-box1",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E: info@toalhasdescartaveis.pt &nbsp;T: 966967973",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.instagram.com/toalhasdescartaveis/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Follow us</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_styles": {
-            "H2": {
-              "font-size": "25px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "msg-box2-h"
         }
       ]
     }

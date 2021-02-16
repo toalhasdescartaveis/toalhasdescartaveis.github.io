@@ -27,9 +27,14 @@
   text-align: left;
 }
 #msg-box2-f H2 {
-  font-size: 36px;
-  font-family: 'Oxygen', sans-serif;
+  font-size: 46px;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
+}
+#msg-box2-h H2 {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
 }
 #ext_menu-9 .navbar-toggler {
   color: #e6e0dc;
@@ -41,9 +46,4 @@
 #ext_menu-9 .nav-link {
   font-family: 'Oswald', sans-serif;
   font-size: 19px;
-}
-#msg-box2-h H2 {
-  font-size: 25px;
-  font-family: 'Oswald', sans-serif;
-  text-align: right;
 }
